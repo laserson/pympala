@@ -3,6 +3,8 @@ pympala
 
 Python client to Cloudera Impala
 
+(Built for Impala 0.7; uses beeswax)
+
 
 Installation
 ------------
