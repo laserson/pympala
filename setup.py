@@ -19,5 +19,5 @@ setup(
     'distribute',
     'thrift>=0.9'
   ],
-  license='BSD'
+  license='Apache License, Version 2.0'
 )
